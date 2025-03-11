@@ -1,0 +1,8 @@
+{
+    "manufacturer": "Keychron",
+    "keyboard_name": "Keychron Q3 ANSI Encoder",
+    "usb": {
+       "force_nkro": true,
+       "polling_interval": 1
+    }
+}
